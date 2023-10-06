@@ -44,7 +44,7 @@ background: transparent;
 width: 50vmin;
 height:25vmin;
 top: 2vmin;
-left: 2vmin;
+left: 5vw;
 position: absolute;
 font-size: 5vmin;
 color: #ffffff;
@@ -78,8 +78,8 @@ background-color: #FFFFFF;
 
 #timelinePoint1, #timelinePoint2, #timelinePoint3, #timelinePoint4, #timelinePoint5, #timelinePoint6
 {
-width: 2vw;
-height: 2vw;
+width: 2vh;
+height: 2vh;
 background-color: #FFFFFF;
 bottom: 7.2vh;
 
