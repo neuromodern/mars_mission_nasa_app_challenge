@@ -23,5 +23,5 @@ Imagine an Earth-orbiting satellite, or an Earth-to-Moon mission that requires a
 
 - [GMAT](https://opensource.gsfc.nasa.gov/projects/GMAT/)
 - [Blender](https://www.blender.org/)
-- [Babylonjs](https://www.babylonjs.com/) based on [threejs](https://threejs.org/)
+- [Babylonjs](https://www.babylonjs.com/) based on WebGL
 - JavaScript + HTML + css
