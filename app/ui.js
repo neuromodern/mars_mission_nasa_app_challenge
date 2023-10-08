@@ -36,7 +36,7 @@ function UIupdate()
 {
 if(window.appUIState['soundPlay'] == true)
 {
-//document.getElementById('soundBG').play();
+document.getElementById('soundBG').play();
 }
 window.requestAnimationFrame(UIupdate);
 }
