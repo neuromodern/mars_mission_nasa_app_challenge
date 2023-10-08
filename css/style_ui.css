@@ -41,8 +41,8 @@ body {
 #topHeader {
   width: 50vmin;
   height: 25vmin;
-  top: 5vmin;
-  left: 5vmin;
+  top: 5vw;
+  left: 5vw;
   position: absolute;
   font-size: 5vmin;
   color: #ffffff;
