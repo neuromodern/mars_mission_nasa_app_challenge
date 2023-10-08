@@ -10,7 +10,7 @@ function UIinit()
 {
 //languages
 document.getElementById('language_en').addEventListener("click", function(){changeLanguage('en')});
-document.getElementById('language_tj').addEventListener("click", function(){changeLanguage('tj')});
+// document.getElementById('language_tj').addEventListener("click", function(){changeLanguage('tj')});
 document.getElementById('language_ru').addEventListener("click", function(){changeLanguage('ru')});
 
 //slides
