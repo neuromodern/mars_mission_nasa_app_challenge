@@ -106,16 +106,41 @@ body {
   position: absolute;
   width: 4vw;
   height: 4vw;
-  bottom: 5.5vh;
+  bottom: 5.7vh;
   border-radius: 50%;
   border-color: #ffffff;
   border-width: 0.3vh;
   border-style: solid;
-  margin-left: -1.1vw;
+  margin-left: -1.2vw;
   display: none;
 }
 
+@media screen and (max-width: 600px) {
 
+  #timelinePoint1Big,
+  #timelinePoint2Big,
+  #timelinePoint3Big,
+  #timelinePoint4Big,
+  #timelinePoint5Big,
+  #timelinePoint6Big {
+    bottom: 6.5vh;
+    margin-left: -1.5vw;
+    width: 6vw;
+    height: 6vw;
+  }
+
+  #timelinePoint1,
+  #timelinePoint2,
+  #timelinePoint3,
+  #timelinePoint4,
+  #timelinePoint5,
+  #timelinePoint6 {
+    width: 4vw;
+    height: 4vw;
+    bottom: 7.2vh;
+  }
+
+}
 
 
 
